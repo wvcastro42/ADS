@@ -32,3 +32,7 @@ const resultComb2 = !(a && b) || a; //true
 console.log(`\n(true || false) && !false: ${resultComb1}`) //saída: true
 console.log(`!(true || false) || true: ${resultComb2}`) //saída: true
 
+
+
+
+console.log(10/0);
