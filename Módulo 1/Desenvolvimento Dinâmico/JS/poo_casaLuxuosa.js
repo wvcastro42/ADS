@@ -90,8 +90,3 @@ Encapsulamento em Orientação a Objetos
 O encapsulamento é o controle de acesso a dados, agrupando atributos e métodos em uma única unidade. 
 A prática recomendada é usar propriedades privadas e métodos get e set para garantir que alterações sejam controladas e seguras.
 */
-
-1c
-2c 
-3c 
-4b 
